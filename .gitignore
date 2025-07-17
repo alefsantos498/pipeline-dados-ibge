@@ -1,0 +1,11 @@
+﻿# Python
+*.pyc
+__pycache__/
+.venv/
+
+# Configurações
+.env
+*.json     # chaves da service account
+
+# Dados gerados
+data/
